@@ -22,14 +22,6 @@ I thrive in **agile, globally distributed teams,** delivering enterprise‑grade
 
 ---
 
-### Social Links
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sivaramanraja.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramanraja/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sivaramanraja/)
-
----
-
 ### Tech Stack
 
 <table>
