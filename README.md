@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-I am a Backend Software Engineer with **7.9 years of experience** building scalable, high‑performance systems across aviation, IoT, and e‑commerce domains. I specialize in **Java 21, Spring Boot, microservices, and cloud platforms (AWS & Azure),** with hands‑on expertise in **APIs, distributed systems, and Gen AI integration.**
+I am a Backend Software Engineer with **7.10 years of experience** building scalable, high‑performance systems across aviation, IoT, and e‑commerce domains. I specialize in **Java 21, Spring Boot, microservices, Angular 21 and cloud platforms (AWS & Azure),** with hands‑on expertise in **APIs, distributed systems, and Gen AI integration.**
 
 I thrive in **agile, globally distributed teams,** delivering enterprise‑grade full stack solutions for mission‑critical applications. Passionate about solving complex problems, mentoring engineers, and driving innovation with modern technologies.
 
