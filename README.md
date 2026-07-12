@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-I am a Backend Software Engineer with **7.10 years of experience** building scalable, high‑performance systems across aviation, IoT, and e‑commerce domains. I specialize in **Java 21, Spring Boot, microservices, Angular 21 and cloud platforms (AWS & Azure),** with hands‑on expertise in **APIs, distributed systems, and Gen AI integration.**
+I am a Backend Software Engineer with **8 years of experience** building scalable, high‑performance systems across aviation, IoT, and e‑commerce domains. I specialize in **Java 21, Spring Boot, microservices, Angular 21 and cloud platforms (AWS & Azure),** with hands‑on expertise in **APIs, distributed systems, and Gen AI integration.**
 
 I thrive in **agile, globally distributed teams,** delivering enterprise‑grade full stack solutions for mission‑critical applications. Passionate about solving complex problems, mentoring engineers, and driving innovation with modern technologies.
 
@@ -39,14 +39,14 @@ I thrive in **agile, globally distributed teams,** delivering enterprise‑grade
   </tr>
   <tr>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=amazons3" width="40" height="40" alt="PostgreSQL"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=mysql" width="40" height="40" alt="Firebase"/></td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="Redis"/></td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=mysql" width="40" height="40" alt="kubernetes"/></td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker"/></td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=kafka" width="40" height="40" alt="Kafka"/></td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=confluence" width="40" height="40" alt="Elasticsearch"/></td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=graphql" width="40" height="40" alt="GraphQL"/></td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=linux" width="40" height="40" alt="gRPC"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker"/></td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=jenkins" width="40" height="40" alt="Jest"/></td>
   </tr>
 </table>
